@@ -1,0 +1,49 @@
+Duration:                                     # 镜头时长（秒）
+Shutter:                                      # 快门角度（运动模糊控制）
+Capture Format:                               # 拍摄介质 / 模拟胶片类型
+Grain & Halation:                             # 胶片颗粒与高光晕影效果
+Gate Weave:                                   # 胶片抖动（是否保留）
+
+Focal Lengths:                                # 使用的焦距（mm）
+Lens Type:                                   # 镜头类型（球面 / 变形等）
+Filtration:                                   # 滤镜类型（Pro-Mist, CPL等）
+Polarization Control:                         # 偏振角度调整说明
+
+Highlights:                                   # 高光区域色调
+Midtones:                                     # 中间调与阴影色倾向
+Blacks:                                       # 黑位 / 暗部层次
+
+
+Key Light:                                   # 主光来源方向与时间
+Bounce / Fill:                                # 反光与补光设置
+Negative Fill:                                # 吸光 / 控制对比的方式
+Practicals:                                   # 实景光源（灯具、标志灯等）
+Atmosphere Effects:                           # 环境特效（雾气、烟气等）
+
+Setting: historial document(1944)                                    # 场景类型与时间
+Foreground Elements:                          # 前景要素
+Midground Elements:                           # 中景要素
+Background Elements:                          # 背景要素
+Restrictions:                                 # 拍摄限制（避免标志、品牌等）
+
+
+Main Subject:                                 # 主角造型与姿态
+Extras:                                       # 群众演员特征
+Props:                                        # 道具设置
+
+Type:                                         # 声音类型（仅现场声 / 含配乐等）
+Elements:                                     # 具体声音元素
+Mix Level:                                   # 音量与混音优先级
+
+Total Duration:                               # 总时长
+
+Eyeline & Framing:                            # 视线高度与构图亲密度
+Flare & Texture:                              # 光晕与质感控制
+Motion Style:                                 # 手持 / 稳定器风格
+Exposure Control:                             # 曝光与高光保留策略
+
+Grain & Noise:                                # 胶片颗粒 / 色噪强度
+Halation:                                     # 高光晕影控制
+LUT & Tone:                                   # 调色 LUT 与色温分布
+Audio Mix:                                   # 混音重点
+Poster Frame:                                 # 海报帧 / 最终定格画面
